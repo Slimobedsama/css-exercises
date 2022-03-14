@@ -44,7 +44,6 @@ body {
 
 .box {
   display: flex;
-  flex: 1;
 }
 
 .box-1 {
